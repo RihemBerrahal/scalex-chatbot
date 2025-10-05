@@ -86,6 +86,5 @@ Thumbs.db
 *.env.development
 *.env.production
 *.env.test
-render.yaml
 *.tar
 *.zip
