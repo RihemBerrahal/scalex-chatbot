@@ -1,0 +1,91 @@
+# ==================================================
+# 👨‍💻 Node (Server)
+# ==================================================
+server/node_modules/
+server/scalex.db
+server/.env
+server/logs/
+server/tmp/
+server/package-lock.json
+server/yarn.lock
+
+# Ignore build or dist output
+server/build/
+server/dist/
+
+# Ignore any local runtime files
+server/.cache/
+server/.vercel/
+server/.next/
+server/.npm/
+server/.pnpm-store/
+
+# ==================================================
+# 📱 Flutter / Android / iOS (Mobile)
+# ==================================================
+mobile/.dart_tool/
+mobile/.flutter-plugins*
+mobile/.packages
+mobile/build/
+mobile/coverage/
+mobile/pubspec.lock
+
+# iOS
+mobile/ios/Flutter/
+mobile/ios/.symlinks/
+mobile/ios/Pods/
+mobile/ios/Runner/GeneratedPluginRegistrant.*
+mobile/ios/Flutter/App.framework
+mobile/ios/Flutter/Flutter.framework
+mobile/ios/Flutter/Flutter.podspec
+
+# Android
+mobile/android/.gradle/
+mobile/android/.idea/
+mobile/android/local.properties
+mobile/android/app/build/
+mobile/android/build/
+mobile/android/app/release/
+mobile/android/app/debug/
+mobile/android/key.properties
+
+# Flutter output formats
+*.lock
+*.aab
+*.apk
+
+# ==================================================
+# 🧪 Testing / Coverage
+# ==================================================
+coverage/
+test_output/
+reports/
+*.log
+
+# ==================================================
+# 💻 Editor & System Files
+# ==================================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# ==================================================
+# 🚀 Misc / Tools
+# ==================================================
+.env
+*.env.local
+*.env.development
+*.env.production
+*.env.test
+render.yaml
+*.tar
+*.zip
