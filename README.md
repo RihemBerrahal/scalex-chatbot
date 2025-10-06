@@ -6,13 +6,25 @@
 
 ## 📱 App Preview
 
-![Landing Screen Enghlish](mobile/assets/screenshots/landing_page_english.png)
-![Landing Screen Arabic](mobile/assets/screenshots/landing_page_arabic.png)
-![Sign_Up](mobile/assets/screenshots/signup.png)
-![Log_In](mobile/assets/screenshots/login.png)
-![Chat Interface](mobile/assets/screenshots/chat.png)
-![SideBar](mobile/assets/screenshots/sidebar.png)
-![Summary](mobile/assets/screenshots/summary.png)
+<p align="center">
+  <img src="mobile/assets/screenshots/landing_page_english.png" alt="Landing Screen English" width="300"/>
+  <img src="mobile/assets/screenshots/landing_page_arabic.png" alt="Landing Screen Arabic" width="300"/>
+</p>
+
+<p align="center">
+  <img src="mobile/assets/screenshots/signup.png" alt="Sign Up" width="300"/>
+  <img src="mobile/assets/screenshots/login.png" alt="Login" width="300"/>
+</p>
+
+<p align="center">
+  <img src="mobile/assets/screenshots/chat.png" alt="Chat Interface" width="300"/>
+  <img src="mobile/assets/screenshots/sidebar.png" alt="Sidebar" width="300"/>
+</p>
+
+<p align="center">
+  <img src="mobile/assets/screenshots/summary.png" alt="Summary" width="300"/>
+</p>
+
 
 
 ## 🚀 Features
