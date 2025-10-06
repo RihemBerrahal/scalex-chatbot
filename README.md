@@ -4,6 +4,17 @@
 
 ---
 
+## 📱 App Preview
+
+![Landing Screen Enghlish](mobile/assets/screenshots/landing_page_english.png)
+![Landing Screen Arabic](mobile/assets/screenshots/landing_page_arabic.png)
+![Sign_Up](mobile/assets/screenshots/signup.png)
+![Log_In](mobile/assets/screenshots/login.png)
+![Chat Interface](mobile/assets/screenshots/chat.png)
+![SideBar](mobile/assets/screenshots/sidebar.png)
+![Summary](mobile/assets/screenshots/summary.png)
+
+
 ## 🚀 Features
 
 ### 🏠 Landing Screen
