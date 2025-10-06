@@ -130,31 +130,6 @@ scalex-chatbot/
 
 ---
 
-## 🌐 Deployment
-
-### 🔹 Backend (Render)
-1. Push your repo to GitHub  
-2. Create a new **Web Service** on [Render](https://render.com/)  
-3. Connect your GitHub repo  
-4. Use `render.yaml` for automatic configuration  
-5. Environment variables required:
-   ```
-   PORT=10000
-   HF_TOKEN=your_huggingface_token
-   JWT_SECRET=your_secret_key
-   ```
-
-### 🔹 Flutter (APK Build)
-To build your release APK:
-```bash
-flutter build apk --release
-```
-APK will be generated at:
-```
-mobile/build/app/outputs/flutter-apk/app-release.apk
-```
-
----
 
 ## 🧠 API Endpoints
 
@@ -199,24 +174,9 @@ Switching language triggers automatic layout direction and text updates.
 - ⚡ **Easy Localization** for translations  
 - 💡 **AI-assisted development** with ChatGPT & GitHub Copilot  
 
----
-
-## 🎥 Demo Video Outline
-- Login / Sign-up flow  
-- AI chat in English & Arabic  
-- Model switching  
-- Voice message (speech-to-text)  
-- Viewing summaries per conversation  
-- Optional: show exported APK / backend on Render  
 
 ---
 
 ## 👨‍💻 Author
-**Iyed Ben Hadj Dahmen**  
-📧 petpalsgame@gmail.com  
-🏢 PlayPals Studio  
-
----
-
-## 🏁 License
-This project is open-source and available under the **MIT License**.
+**Rihem Berrahal**  
+📧 rihem.berrahal@fsb.ucar.tn
