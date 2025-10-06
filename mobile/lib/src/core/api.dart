@@ -7,7 +7,7 @@ class Api {
 
   final Dio dio = Dio(
     BaseOptions(
-      baseUrl: 'http://192.168.100.114:5050',
+      baseUrl: 'http://localhost:5050',
       // 👇 allow 4xx to be handled manually
       validateStatus: (status) => status != null && status < 500,
       // optional: get response body on errors too
